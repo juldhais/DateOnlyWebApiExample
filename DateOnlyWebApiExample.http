@@ -1,0 +1,6 @@
+@DateOnlyWebApiExample_HostAddress = http://localhost:5160
+
+GET {{DateOnlyWebApiExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
